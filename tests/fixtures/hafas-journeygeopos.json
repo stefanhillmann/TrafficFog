@@ -1,0 +1,217 @@
+{
+ "ver": "1.72",
+ "lang": "deu",
+ "err": "OK",
+ "svcResL": [
+  {
+   "meth": "JourneyGeoPos",
+   "err": "OK",
+   "res": {
+    "common": {
+     "prodL": [
+      {
+       "cls": 2,
+       "name": "U8",
+       "nameS": "U8",
+       "prodCtx": {
+        "line": "U8",
+        "catOutS": "U"
+       }
+      },
+      {
+       "cls": 2,
+       "name": "U5",
+       "nameS": "U5",
+       "prodCtx": {
+        "line": "U5",
+        "catOutS": "U"
+       }
+      }
+     ],
+     "polyL": [
+      {
+       "crdEncF": "????",
+       "crdEncS": "NNNN",
+       "crdEncYX": "k_q_IytzpAyC|EeEpKaHrD",
+       "delta": true,
+       "dim": 2
+      },
+      {
+       "crdEncF": "????",
+       "crdEncS": "NNNN",
+       "crdEncYX": "gks_Io|wpAxCkApCoBlCyB",
+       "delta": true,
+       "dim": 2
+      },
+      {
+       "crdEncF": "????",
+       "crdEncS": "NNNN",
+       "crdEncYX": "kmp_Ief{pAzB}AzAoDrAqD",
+       "delta": true,
+       "dim": 2
+      },
+      {
+       "crdEncF": "????",
+       "crdEncS": "NNNN",
+       "crdEncYX": "csp_Igk}pAz@gFx@gFj@oF",
+       "delta": true,
+       "dim": 2
+      },
+      {
+       "crdEncF": "????",
+       "crdEncS": "NNNN",
+       "crdEncYX": "ahp_I{xwpA{@sKeA_NeA}M",
+       "delta": true,
+       "dim": 2
+      }
+     ]
+    },
+    "date": "20261010",
+    "time": "162903",
+    "planrtTS": "1791642516",
+    "jnyL": [
+     {
+      "jid": "1|53810|58|86|10102026",
+      "prodX": 0,
+      "dirTxt": "Wittenau",
+      "pos": {
+       "x": 13412769,
+       "y": 52521014
+      },
+      "ani": {
+       "mSec": [
+        0,
+        10000,
+        20000,
+        30000
+       ],
+       "proc": [
+        6,
+        26,
+        46,
+        66
+       ],
+       "polyG": {
+        "polyXL": [
+         0
+        ]
+       }
+      }
+     },
+     {
+      "jid": "1|53755|19|86|10102026",
+      "prodX": 0,
+      "dirTxt": "Hermannstraße",
+      "pos": {
+       "x": 13398638,
+       "y": 52533158
+      },
+      "ani": {
+       "mSec": [
+        0,
+        10000,
+        20000,
+        30000
+       ],
+       "proc": [
+        57,
+        66,
+        75,
+        84
+       ],
+       "polyG": {
+        "polyXL": [
+         1
+        ]
+       }
+      }
+     },
+     {
+      "jid": "1|53724|26|86|10102026",
+      "prodX": 0,
+      "dirTxt": "Hermannstraße",
+      "pos": {
+       "x": 13415546,
+       "y": 52518137
+      },
+      "ani": {
+       "mSec": [
+        0,
+        10000,
+        20000,
+        30000
+       ],
+       "proc": [
+        57,
+        66,
+        75,
+        84
+       ],
+       "polyG": {
+        "polyXL": [
+         2
+        ]
+       }
+      }
+     },
+     {
+      "jid": "1|53227|2|86|10102026",
+      "prodX": 1,
+      "dirTxt": "Hönow",
+      "pos": {
+       "x": 13426603,
+       "y": 52519054
+      },
+      "ani": {
+       "mSec": [
+        0,
+        10000,
+        20000,
+        30000
+       ],
+       "proc": [
+        57,
+        66,
+        75,
+        84
+       ],
+       "polyG": {
+        "polyXL": [
+         3
+        ]
+       }
+      }
+     },
+     {
+      "jid": "1|53192|12|86|10102026",
+      "prodX": 1,
+      "dirTxt": "Kaulsdorf-Nord",
+      "pos": {
+       "x": 13398062,
+       "y": 52517292
+      },
+      "ani": {
+       "mSec": [
+        0,
+        10000,
+        20000,
+        30000
+       ],
+       "proc": [
+        6,
+        26,
+        46,
+        66
+       ],
+       "polyG": {
+        "polyXL": [
+         4
+        ]
+       }
+      }
+     }
+    ]
+   }
+  }
+ ]
+}
