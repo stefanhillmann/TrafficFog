@@ -124,4 +124,7 @@ Einmalig nötig: unter *Settings → Pages* als Quelle „GitHub Actions“ wäh
 - Der Bereich ist ein Quadrat um die Position. Auf sehr breiten oder hohen Bildschirmen bleiben die Ränder deshalb leer.
 - Bei **langer oder unendlicher Nachleuchtdauer** merkt sich das Zeigen auf Spuren höchstens ~250.000 Punkte. Sehr alte Spuren bleiben sichtbar, lassen sich dann aber nicht mehr zuordnen. Bei „unendlich“ füllt sich das Bild über Stunden.
 - Bei langer Nachleuchtdauer kann ein schwacher Rest (unter 3 % Helligkeit) stehen bleiben. Das liegt an der 8-Bit-Genauigkeit des Canvas.
-- **Lizenz des Codes:** noch nicht festgelegt.
+
+## Lizenz
+
+Der Code steht unter der [MIT-Lizenz](LICENSE). Für die angezeigten Fahrzeugdaten gilt das nicht. Deren Herkunft und Nutzungsbedingungen beschreibt der Abschnitt [Lizenz und Namensnennung der Daten](#lizenz-und-namensnennung-der-daten).

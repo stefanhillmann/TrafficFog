@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Berliner Nahverkehr in Echtzeit als Nebelkammer",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
